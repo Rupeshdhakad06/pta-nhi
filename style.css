@@ -5,3 +5,8 @@ h1{
     color: aqua;
     font-family:'Times New Roman', Times, serif;
 }
+#bg{
+    height: 100%;
+    width: 100%;
+    background-image: url(./download.jpeg);
+}
