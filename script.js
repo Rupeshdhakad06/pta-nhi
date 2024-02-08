@@ -1,1 +1,1 @@
-alert("rth")
+alert("rt")
