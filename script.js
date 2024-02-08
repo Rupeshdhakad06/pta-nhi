@@ -1,1 +1,1 @@
-alert("welcome to my cafe")
+alert("rth")
